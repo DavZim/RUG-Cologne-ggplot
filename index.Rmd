@@ -5,6 +5,7 @@ author: "David Zimmermann"
 date: "2019-10-11 - [R User Group Cologne Meetup](https://www.meetup.com/KoelnRUG/)"
 output:
   xaringan::moon_reader:
+    lib_dir: libs
     css: [default, metropolis, metropolis-fonts, custom.css]
     nature:
       ratio: 16:9
