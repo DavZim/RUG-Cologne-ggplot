@@ -1138,13 +1138,13 @@ ggplot(gapminder, aes(x = gdpPercap, y = lifeExp, size = pop, color = country)) 
 
 # Initial Plot
 
-.center[<img src="data_vis_files/figure-html/fine_4-1.png" width="80%" />]
+.center[<img src="`r knitr::fig_chunk("fine_4", "png")`" width="80%" />]
 
 ---
 
 # Final Plot
 
-.center[<img src="data_vis_files/figure-html/fine_11-1.png" width="80%" />]
+.center[<img src="`r knitr::fig_chunk("fine_11", "png")`" width="80%" />]
 
 ---
 class: inverse, center, middle
